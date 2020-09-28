@@ -1,14 +1,38 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "title": "Dog",
+    "url": {
+      "url1": "https://i.picsum.photos/id/1062/5092/3395.jpg?hmac=o9m7qeU51uOLfXvepXcTrk2ZPiSBJEkiiOp-Qvxja-k",
+      "url2": "https://i.picsum.photos/id/1025/4951/3301.jpg?hmac=_aGh5AtoOChip_iaMo8ZvvytfEojcgqbCH7dzaz-H8Y",
+      "url3": "https://i.picsum.photos/id/237/3500/2095.jpg?hmac=y2n_cflHFKpQwLOL1SSCtVDqL8NmOnBzEW7LYKZ-z_o"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Nature",
+    "url": {
+      "url1": "https://i.picsum.photos/id/199/2592/1728.jpg?hmac=qOzjPDUZT5vWXyaHaaTo602LZZdZgyQtSfa8KB3uTDs",
+      "url2": "https://i.picsum.photos/id/216/2500/1667.jpg?hmac=1g2BUfc8FVh32xe_jfCGso0xqyVSnIKEBJ-xpSZBTfs",
+      "url3": "https://i.picsum.photos/id/179/2048/1365.jpg?hmac=GJyDjrvfBfjPfJPqSBd2pX6sjvsGbG10d21blr5bTS8"
+    }
+  },
+  {
+    "id": 3,
+    "title": "City",
+    "url": {
+      "url1": "https://i.picsum.photos/id/249/3000/2000.jpg?hmac=U2oOCXdXUwt6ftKMC4icF6eS8dGDUZJM_0-qi0JEqjk",
+      "url2": "https://i.picsum.photos/id/238/2560/1440.jpg?hmac=wKo4dLHwDntZmO_fdtnKtsnmRcPMACca3m5J5vx2AVc",
+      "url3": "https://i.picsum.photos/id/259/3264/2448.jpg?hmac=9Tj9pBJLZklZTbgkq4eQrUNO6zjYKicykFUq-PgV21M"
+    }
+  },
+  {
+    "id": 4,
+    "title": "People",
+    "url": {
+      "url1": "https://i.picsum.photos/id/331/3648/2432.jpg?hmac=DP8zBuF0-y4P0irsYDFcnEraU3xlUjRdosV4d2e4_JQ",
+      "url2": "https://i.picsum.photos/id/334/2304/1536.jpg?hmac=ihrh84KbSSW-zvp-oRz8FGCVOWvPAD3SZvYPS0v3mv8",
+      "url3": "https://i.picsum.photos/id/338/2000/1333.jpg?hmac=-sTSfHkgHcFg1Jdut1v8HTVl9S1cyeMQ0OY_8dj30fY"
+    }
   }
-}
+]
